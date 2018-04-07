@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#3CB371</color>
+    <color name="colorAccent">#70D39C</color>
+    <color name="colorPrimaryLight">#80BBE8CF</color>
+    <color name="lightGreen">#E6BBE8CF</color>
+
+    <color name="primaryBlue">#4CBA7D</color>
+
+    <color name="pillTextColour0">#ad08b3</color>
+    <color name="pillTextColour1">#f27013</color>
+    <color name="pillTextColour2">#f50630</color>
+    <color name="pillTextColour3">#915c1f</color>
+    <color name="pillTextColour4">#000000</color>
+    <color name="pillTextColour5">#0d10ea</color>
+    <color name="pillTextColour6">#fce707</color>
+
+</resources>
