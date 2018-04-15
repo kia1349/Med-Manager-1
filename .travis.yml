@@ -13,5 +13,11 @@ android:
     - extra-google-m2repository
     - extra-android-m2repository
 
-  script:
-    - chmod +x ./gradlew
+script:
+  - chmod +x ./gradlew
+   
+notifications:
+  email:
+    recipients:
+    on_success: always # default: change
+    on_failure: never # default: always
