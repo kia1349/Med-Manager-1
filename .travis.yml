@@ -13,8 +13,8 @@ android:
     - extra-google-m2repository
     - extra-android-m2repository
 
-  script:
-    - chmod +x ./gradlew
+script:
+  - chmod +x ./gradlew
    
 notifications:
   email:
